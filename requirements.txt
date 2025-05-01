@@ -1,0 +1,4 @@
+semantic-kernel
+mcp
+python-dotenv
+openai

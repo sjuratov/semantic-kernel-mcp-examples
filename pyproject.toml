@@ -1,0 +1,12 @@
+[project]
+name = "semantic-kernel-mcp-examples"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp>=1.6.0",
+    "openai>=1.76.2",
+    "python-dotenv>=1.1.0",
+    "semantic-kernel>=1.29.0",
+]
