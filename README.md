@@ -6,5 +6,7 @@ Important changes from original repo:
 - .env file has following environment variables
 
 AZURE_OPENAI_CHAT_DEPLOYMENT_NAME="gpt-4o-mini"
+
 AZURE_OPENAI_ENDPOINT="https://xyz.openai.azure.com/"
+
 AZURE_OPENAI_API_KEY="2N4..."
